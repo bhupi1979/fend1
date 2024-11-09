@@ -1,10 +1,5 @@
 
 
-
-import 'bootstrap/dist/css/bootstrap.css'
-import "bootstrap/dist/js/bootstrap.min.js"
-// import $ from 'jquery'
-// import Popper from 'popper.js'
 export function Navbartop(){
 
     return (
