@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-center  bg-success text-white m-0 p-0" >WELCOME TO Student information</h1>
+      <h1 className="text-center  bg-success text-white m-0 p-2" >WELCOME TO Student information</h1>
       <Carasoul/>
 
   <Studentform/>
