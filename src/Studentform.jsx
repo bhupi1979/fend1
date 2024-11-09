@@ -1,7 +1,7 @@
 export function Studentform(){
     return(
         <>
-        <div className="container w-50 ">
+        <div className="container w-50 my-5">
         <form>
         <div className="mb-3">
   <label for="exampleFormControlInput1" className="form-label"> Enter Name</label>
